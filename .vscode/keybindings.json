@@ -1,0 +1,8 @@
+[
+    {
+        "key": "ctrl+alt+a",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorTextFocus"
+    }
+]
+
